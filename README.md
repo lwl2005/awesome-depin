@@ -112,6 +112,7 @@ Welcome to our [DePIN (Decentralized Physical Infrastructure Networks)](https://
 - [Livepeer](https://livepeer.org)
 - [Acurast](https://acurast.com/)
 - [Lilypad](https://lilypad.tech)
+- [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain with 15+ CPU architecture support, Solana bridge, and DePIN ecosystem
 
 #### Storage
 
